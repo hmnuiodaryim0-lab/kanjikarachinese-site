@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hmnuiodaryim0-lab.github.io/kanjikarachinese-site/sitemap.xml
